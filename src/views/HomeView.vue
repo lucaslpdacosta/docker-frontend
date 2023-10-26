@@ -2,7 +2,7 @@
   <div class="home">
     <div class="centered-content">
       <div class="header">
-        <h1 class="centered-title">SORTEAR GRUPOS<span class="sub-text"> (agora funcionando :p)</span></h1>
+        <h1 class="centered-title">SORTEAR GRUPOS<span class="sub-text"> (testando de novo :p)</span></h1>
       </div>
 
       <p class="description">Avaliação Desenvolvimento WEB para a Núvem</p>
